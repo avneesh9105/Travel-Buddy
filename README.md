@@ -1,6 +1,6 @@
 #### Travel Buddy
 A Bus Seat Booking Website
-
+<p style="font-size:18px;">This text is larger than usual.</p>
 ###Steps to Follow:-
 Clone the repository.
 ##On Client:
