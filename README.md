@@ -29,3 +29,9 @@ Summary of what the stack looks like now including a picture with the core tech:
 Node.js (v14.x or later)<br>
 MongoDB (v4.x or later)<br>
 NPM (v6.x or later)
+
+## Screenshots
+![Screenshot 2024-05-13 145907](https://github.com/avneesh9105/Travel-Buddy/assets/138966893/2a2a0219-ae27-48a0-89d0-ff456a93b11d)
+![Screenshot 2024-05-13 150212](https://github.com/avneesh9105/Travel-Buddy/assets/138966893/a51a8bd1-f4cc-4644-ad10-b00d6c41eed8)
+![Screenshot 2024-05-13 150027](https://github.com/avneesh9105/Travel-Buddy/assets/138966893/69945413-2e0e-4122-8e58-00c9a5cdfc86)
+![Screenshot 2024-05-21 145827](https://github.com/avneesh9105/Travel-Buddy/assets/138966893/265ca06b-1bf0-498f-94f4-1b523bc3e6c6)
